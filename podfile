@@ -1,0 +1,5 @@
+pod 'MTBBarcodeScanner', '1.8.10'
+pod 'BBBadgeBarButtonItem'
+pod 'Mapbox-iOS-SDK'
+platform :ios, "8.0"
+use_frameworks!
